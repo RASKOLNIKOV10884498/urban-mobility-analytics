@@ -1,0 +1,7 @@
+group_1,group_2,mean_difference,adjusted_p_value,ci_lower,ci_upper,reject_null
+Dry,Light precipitation,6.2237,0.9998,-205.1079,217.5553,False
+Dry,Rain,-108.9274,0.5636,-325.2046,107.3499,False
+Dry,Snow,-597.0614,0.0001,-949.0451,-245.0777,True
+Light precipitation,Rain,-115.1511,0.6227,-361.3709,131.0688,False
+Light precipitation,Snow,-603.2851,0.0002,-974.4198,-232.1505,True
+Rain,Snow,-488.134,0.0046,-862.1069,-114.1611,True

@@ -1,0 +1,2 @@
+observations,residual_mean,residual_std,residual_skewness,residual_kurtosis,shapiro_statistic,shapiro_p_value,residual_normality_result,mean_absolute_error,root_mean_squared_error
+365,3.189460871970817e-13,608.7573777504282,-0.43251349327495603,-0.16905826736798568,0.9726043064284927,2.1824955674616245e-06,highly significant,470.7065567828418,607.9228915764386

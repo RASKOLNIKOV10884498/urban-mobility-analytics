@@ -1,0 +1,2 @@
+observations,mean_daily_trips,standard_deviation,standard_error,confidence_level,critical_value,margin_of_error,ci_lower,ci_upper
+365,2786.1753424657536,640.2485883505259,33.512142754727925,0.95,1.966502568799364,65.90171481314346,2720.2736276526102,2852.077057278897

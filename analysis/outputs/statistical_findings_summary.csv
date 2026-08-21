@@ -1,0 +1,7 @@
+finding_type,variable,target,pearson_r,pearson_p_value,spearman_rho,spearman_p_value,interpretation,statistically_significant
+correlation,avg_temperature_f,total_trips,0.1198506360773795,0.022012630793646532,0.0019624700508245837,0.9701944811712108,weak positive relationship,True
+correlation,precipitation_inches,total_trips,-0.1331777065105184,0.010865831941111022,-0.12341016005190569,0.018339885853177442,weak negative relationship,True
+correlation,snowfall_inches,total_trips,-0.2834310558044303,3.593239409647837e-08,-0.18820133630267638,0.0002996423836331675,weak negative relationship,True
+correlation,max_wind_speed_mph,total_trips,-0.037461067878136696,0.4755436519656166,0.004287312966603122,0.9349422000285904,negligible negative relationship,False
+anova,weather_condition,total_trips,,,,,Weather categories show statistically significant differences in daily demand,True
+multivariate_regression,weather_variables,total_trips,,,,,Multivariate weather model is highly significant with R²=0.0960,True

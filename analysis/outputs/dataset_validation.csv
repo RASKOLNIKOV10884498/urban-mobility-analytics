@@ -1,0 +1,8 @@
+dataset,rows,columns,valid
+monthly,12,3,True
+hourly,24,3,True
+weekday,7,4,True
+zones,257,4,True
+daily_weather,365,10,True
+weather_impact,4,7,True
+revenue_weather,365,10,True

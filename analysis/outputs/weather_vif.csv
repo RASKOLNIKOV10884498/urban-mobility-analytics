@@ -1,0 +1,5 @@
+variable,vif,interpretation
+avg_temperature_f,1.0835849539783797,acceptable
+precipitation_inches,1.153479182716817,acceptable
+snowfall_inches,1.0905980032583198,acceptable
+max_wind_speed_mph,1.1284497411742145,acceptable

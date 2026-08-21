@@ -1,0 +1,2 @@
+observations,r_squared,adjusted_r_squared,f_statistic,model_p_value,model_significance
+365,0.09595256969054311,0.08590759824266025,9.5522988978497,2.3778924354840896e-07,highly significant

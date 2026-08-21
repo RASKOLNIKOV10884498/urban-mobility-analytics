@@ -1,0 +1,258 @@
+borough,pickup_zone,total_trips,avg_trip_distance_miles
+Manhattan,East Harlem North,104938,2.600000000
+Manhattan,East Harlem South,92238,2.890000000
+Manhattan,Central Harlem,57166,2.600000000
+Manhattan,Central Harlem North,37991,3.290000000
+Manhattan,Morningside Heights,33578,2.880000000
+Queens,Forest Hills,31622,3.650000000
+Manhattan,Washington Heights South,30581,5.330000000
+Brooklyn,Fort Greene,22102,3.560000000
+Queens,Astoria,21259,3.430000000
+Brooklyn,Downtown Brooklyn/MetroTech,20347,3.610000000
+Queens,Elmhurst,19909,3.400000000
+Manhattan,Central Park,17447,2.640000000
+Manhattan,Hamilton Heights,14466,3.930000000
+Queens,Jamaica,14046,5.580000000
+Brooklyn,Crown Heights North,13364,4.680000000
+Brooklyn,Brooklyn Heights,12746,4.430000000
+Queens,Jackson Heights,12444,3.780000000
+Brooklyn,Boerum Hill,10822,4.230000000
+Brooklyn,Park Slope,9482,4.390000000
+Brooklyn,Prospect-Lefferts Gardens,8425,4.960000000
+Brooklyn,East New York,8015,7.780000000
+Queens,Woodside,7598,3.640000000
+Manhattan,Manhattanville,7509,3.560000000
+Queens,Rego Park,7347,4.150000000
+Queens,Kew Gardens,7253,4.730000000
+Bronx,Van Nest/Morris Park,7095,4.820000000
+Bronx,Soundview/Castle Hill,6989,8.140000000
+Brooklyn,Bedford,6566,4.850000000
+Queens,Richmond Hill,6274,10.210000000
+Brooklyn,Flatbush/Ditmas Park,6151,6.000000000
+Brooklyn,Stuyvesant Heights,6124,5.660000000
+Bronx,Co-Op City,6058,7.790000000
+Brooklyn,Clinton Hill,6029,5.020000000
+Brooklyn,Brownsville,5998,7.060000000
+Bronx,East Concourse/Concourse Village,5969,5.280000000
+Brooklyn,Canarsie,5937,8.100000000
+Bronx,Melrose South,5617,4.970000000
+Brooklyn,Coney Island,5544,11.170000000
+Manhattan,Washington Heights North,5528,5.750000000
+Bronx,West Concourse,5419,5.050000000
+Brooklyn,Cobble Hill,5348,3.350000000
+Bronx,Mott Haven/Port Morris,5339,5.600000000
+Queens,Sunnyside,5281,5.640000000
+Queens,Corona,5234,5.790000000
+Manhattan,Bloomingdale,5002,2.670000000
+Brooklyn,East Flatbush/Remsen Village,4826,5.780000000
+Bronx,University Heights/Morris Heights,4719,7.260000000
+Bronx,Williamsbridge/Olinville,4539,7.860000000
+Brooklyn,Bay Ridge,4353,9.160000000
+Manhattan,Upper East Side North,4287,3.510000000
+Brooklyn,Flatlands,4232,6.740000000
+Brooklyn,East Flatbush/Farragut,4189,5.700000000
+Queens,Flushing,4117,5.920000000
+Queens,Steinway,4066,4.630000000
+Bronx,Norwood,4030,6.860000000
+Queens,Old Astoria,3797,4.860000000
+Bronx,Mount Hope,3756,6.520000000
+Bronx,Highbridge,3753,7.950000000
+Brooklyn,DUMBO/Vinegar Hill,3729,5.550000000
+Bronx,Kingsbridge Heights,3635,9.730000000
+Brooklyn,Crown Heights South,3600,4.620000000
+Bronx,Claremont/Bathgate,3529,6.020000000
+Queens,Elmhurst/Maspeth,3467,3.870000000
+Queens,Saint Albans,3462,8.560000000
+Manhattan,Inwood,3417,6.720000000
+Bronx,Morrisania/Melrose,3416,5.440000000
+Queens,South Jamaica,3381,7.880000000
+Bronx,Parkchester,3324,6.310000000
+Bronx,Pelham Parkway,3248,5.600000000
+Brooklyn,Sunset Park West,3194,8.140000000
+Brooklyn,Ocean Hill,3111,6.440000000
+Queens,Baisley Park,3111,7.750000000
+Brooklyn,Bushwick South,3035,6.450000000
+Brooklyn,Sheepshead Bay,3023,7.910000000
+Bronx,Bedford Park,3017,6.750000000
+Brooklyn,Borough Park,2953,5.330000000
+Brooklyn,Williamsburg (North Side),2917,4.720000000
+Bronx,East Tremont,2853,5.900000000
+Bronx,Spuyten Duyvil/Kingsbridge,2844,6.830000000
+Queens,South Ozone Park,2725,7.720000000
+Queens,Flushing Meadows-Corona Park,2651,9.740000000
+Brooklyn,Midwood,2650,5.720000000
+Bronx,Soundview/Bruckner,2642,5.230000000
+Queens,Queensbridge/Ravenswood,2597,4.910000000
+Queens,Hammels/Arverne,2527,14.680000000
+Bronx,Van Cortlandt Village,2496,6.810000000
+Brooklyn,Prospect Heights,2494,4.750000000
+Brooklyn,Marine Park/Mill Basin,2414,8.030000000
+Brooklyn,East Williamsburg,2408,5.890000000
+Brooklyn,Starrett City,2372,9.250000000
+Brooklyn,Erasmus,2356,5.800000000
+Queens,Springfield Gardens North,2304,8.790000000
+Queens,Long Island City/Queens Plaza,2272,4.830000000
+Brooklyn,East New York/Pennsylvania Avenue,2267,9.320000000
+Brooklyn,Bensonhurst West,2250,6.630000000
+Bronx,Bronxdale,2249,7.140000000
+Queens,Hillcrest/Pomonok,2189,5.990000000
+Brooklyn,Williamsburg (South Side),2175,5.610000000
+Manhattan,Lenox Hill East,2125,10.140000000
+Bronx,Westchester Village/Unionport,2119,5.890000000
+Queens,Long Island City/Hunters Point,2108,6.000000000
+Queens,Queens Village,2095,9.470000000
+Bronx,Eastchester,2092,8.500000000
+Bronx,Schuylerville/Edgewater Park,1985,6.120000000
+Queens,Jamaica Estates,1960,6.790000000
+Brooklyn,Gowanus,1958,4.610000000
+Queens,Far Rockaway,1933,14.240000000
+Brooklyn,Homecrest,1912,6.000000000
+Queens,North Corona,1903,5.020000000
+Queens,Briarwood/Jamaica Hills,1868,6.670000000
+Brooklyn,Brighton Beach,1853,8.890000000
+Manhattan,Yorkville West,1819,4.770000000
+Bronx,Belmont,1803,5.380000000
+Brooklyn,Gravesend,1737,10.590000000
+Brooklyn,Greenpoint,1735,4.890000000
+Bronx,Allerton/Pelham Gardens,1735,6.860000000
+Bronx,Longwood,1725,5.660000000
+Bronx,Woodlawn/Wakefield,1720,9.750000000
+Bronx,West Farms/Bronx River,1708,5.960000000
+Brooklyn,Carroll Gardens,1707,4.150000000
+Brooklyn,Sunset Park East,1692,8.730000000
+Bronx,Fordham South,1641,5.450000000
+Brooklyn,Bushwick North,1630,6.810000000
+Bronx,Hunts Point,1583,5.560000000
+Brooklyn,Bensonhurst East,1551,8.080000000
+Bronx,Crotona Park East,1482,6.060000000
+Queens,Kew Gardens Hills,1399,6.650000000
+Manhattan,Kips Bay,1390,9.370000000
+Queens,Hollis,1384,6.450000000
+Brooklyn,Cypress Hills,1324,8.410000000
+Brooklyn,Kensington,1287,6.630000000
+Queens,Laurelton,1284,9.080000000
+Queens,Glendale,1229,4.950000000
+Brooklyn,Madison,1222,6.970000000
+Queens,Queensboro Hill,1203,6.950000000
+Brooklyn,Bath Beach,1182,5.980000000
+Queens,Ridgewood,1164,6.480000000
+Brooklyn,Red Hook,1142,6.760000000
+Queens,East Elmhurst,1142,6.550000000
+Queens,Woodhaven,1074,7.650000000
+Bronx,Riverdale/North Riverdale/Fieldston,1066,9.730000000
+Brooklyn,Dyker Heights,1059,5.340000000
+Bronx,Pelham Bay,985,7.240000000
+Manhattan,Manhattan Valley,969,7.420000000
+Queens,Springfield Gardens South,960,11.070000000
+Queens,Middle Village,947,5.890000000
+Manhattan,Marble Hill,925,6.270000000
+Staten Island,Bloomfield/Emerson Hill,923,26.470000000
+Queens,Cambria Heights,869,12.170000000
+Manhattan,Murray Hill,864,10.100000000
+Brooklyn,Windsor Terrace,861,6.330000000
+Brooklyn,Manhattan Beach,855,7.420000000
+Queens,Maspeth,839,6.390000000
+Manhattan,Upper West Side North,793,7.520000000
+Queens,Bellerose,755,11.010000000
+Queens,Auburndale,728,5.940000000
+Queens,Rosedale,713,11.010000000
+Queens,Murray Hill-Queens,694,8.350000000
+Brooklyn,South Williamsburg,673,7.040000000
+Queens,Bayside,656,8.990000000
+Queens,Howard Beach,607,9.730000000
+Manhattan,Two Bridges/Seward Park,600,8.720000000
+Queens,Rockaway Park,588,13.590000000
+Manhattan,Lenox Hill West,582,8.610000000
+Brooklyn,Prospect Park,556,4.490000000
+Manhattan,Gramercy,541,9.110000000
+Manhattan,Roosevelt Island,528,7.670000000
+Manhattan,East Chelsea,528,9.780000000
+Queens,Fresh Meadows,520,7.330000000
+Bronx,Van Cortlandt Park,511,9.660000000
+Manhattan,Upper East Side South,468,9.090000000
+Manhattan,Clinton East,459,9.980000000
+Manhattan,Yorkville East,405,7.770000000
+Manhattan,Inwood Hill Park,394,7.360000000
+Brooklyn,Ocean Parkway South,394,6.480000000
+Bronx,City Island,378,16.010000000
+Queens,Whitestone,377,10.630000000
+Bronx,Bronx Park,374,7.600000000
+Staten Island,Mariners Harbor,367,23.660000000
+Manhattan,Lincoln Square East,363,9.540000000
+Manhattan,TriBeCa/Civic Center,361,9.980000000
+Queens,College Point,360,9.400000000
+Staten Island,Grymes Hill/Clifton,347,16.980000000
+Manhattan,Flatiron,343,9.380000000
+Queens,Glen Oaks,335,10.600000000
+Manhattan,Union Sq,333,9.550000000
+Queens,Ozone Park,319,8.690000000
+Brooklyn,Brooklyn Navy Yard,319,5.000000000
+Queens,Bay Terrace/Fort Totten,319,11.170000000
+Manhattan,Lincoln Square West,314,8.560000000
+Manhattan,UN/Turtle Bay South,313,9.540000000
+Manhattan,Chinatown,309,9.360000000
+Queens,JFK Airport,307,15.320000000
+Manhattan,Midtown East,307,10.820000000
+Manhattan,Midtown Center,307,10.430000000
+Manhattan,Clinton West,302,8.250000000
+Manhattan,Penn Station/Madison Sq West,295,10.700000000
+Manhattan,East Village,279,9.100000000
+Manhattan,Upper West Side South,279,7.790000000
+Manhattan,Sutton Place/Turtle Bay North,271,9.260000000
+Queens,Oakland Gardens,269,9.540000000
+Manhattan,Midtown South,266,10.250000000
+Manhattan,Garment District,260,10.190000000
+Queens,Saint Michaels Cemetery/Woodside,257,4.820000000
+Queens,East Flushing,254,7.770000000
+Brooklyn,Columbia Street,254,6.540000000
+Manhattan,Alphabet City,251,9.230000000
+Manhattan,Greenwich Village North,250,9.290000000
+Manhattan,Financial District North,241,10.740000000
+Queens,Douglaston,217,10.990000000
+Manhattan,Times Sq/Theatre District,212,10.080000000
+Manhattan,Highbridge Park,198,8.510000000
+Manhattan,Seaport,193,10.090000000
+Manhattan,Midtown North,192,9.720000000
+Queens,Willets Point,188,9.710000000
+Manhattan,Stuy Town/Peter Cooper Village,181,8.180000000
+Queens,LaGuardia Airport,173,8.510000000
+Staten Island,Arden Heights,172,19.840000000
+Bronx,Pelham Bay Park,165,9.420000000
+Manhattan,Lower East Side,157,9.900000000
+Manhattan,West Village,148,8.790000000
+Manhattan,Little Italy/NoLiTa,147,9.840000000
+Manhattan,Financial District South,142,12.170000000
+Manhattan,Randalls Island,141,9.870000000
+Queens,Forest Park/Highland Park,133,6.500000000
+Manhattan,West Chelsea/Hudson Yards,133,10.080000000
+Staten Island,Saint George/New Brighton,110,11.530000000
+Manhattan,World Trade Center,100,10.510000000
+Bronx,Country Club,95,7.280000000
+Brooklyn,Marine Park/Floyd Bennett Field,91,10.660000000
+Bronx,Crotona Park,90,6.130000000
+Staten Island,Heartland Village/Todt Hill,84,18.950000000
+Staten Island,Charleston/Tottenville,78,24.400000000
+Staten Island,Stapleton,68,15.610000000
+Manhattan,Battery Park City,60,12.500000000
+Manhattan,Greenwich Village South,57,9.120000000
+Staten Island,Arrochar/Fort Wadsworth,55,22.790000000
+Queens,Astoria Park,52,5.090000000
+Manhattan,SoHo,45,9.470000000
+Queens,Breezy Point/Fort Tilden/Riis Beach,37,15.040000000
+Staten Island,Eltingville/Annadale/Prince's Bay,34,19.500000000
+Manhattan,Hudson Sq,32,9.710000000
+Manhattan,Meatpacking/West Village West,24,10.610000000
+Brooklyn,Green-Wood Cemetery,22,5.890000000
+Staten Island,Port Richmond,22,16.580000000
+Staten Island,South Beach/Dongan Hills,18,13.950000000
+Staten Island,Freshkills Park,17,19.620000000
+Staten Island,Great Kills,13,16.820000000
+Queens,Broad Channel,12,12.320000000
+Staten Island,West Brighton,11,14.470000000
+Staten Island,New Dorp/Midland Beach,10,11.280000000
+Staten Island,Westerleigh,10,22.270000000
+Staten Island,Rossville/Woodrow,7,27.570000000
+Staten Island,Oakwood,5,24.590000000
+EWR,Newark Airport,5,13.020000000
+Queens,Jamaica Bay,4,15.270000000
+Manhattan,Battery Park,3,5.300000000
