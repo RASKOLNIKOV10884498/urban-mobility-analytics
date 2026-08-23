@@ -1,0 +1,30 @@
+steps:
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'build'
+      - '-t'
+      - 'europe-west1-docker.pkg.dev/$PROJECT_ID/urban-mobility/urban-mobility-analytics:$COMMIT_SHA'
+      - '-f'
+      - 'Dockerfile'
+      - '.'
+
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'push'
+      - 'europe-west1-docker.pkg.dev/$PROJECT_ID/urban-mobility/urban-mobility-analytics:$COMMIT_SHA'
+
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: 'gcloud'
+    args:
+      - 'run'
+      - 'deploy'
+      - 'urban-mobility-analytics-git'
+      - '--image'
+      - 'europe-west1-docker.pkg.dev/$PROJECT_ID/urban-mobility/urban-mobility-analytics:$COMMIT_SHA'
+      - '--region'
+      - 'europe-west1'
+      - '--platform'
+      - 'managed'
+
+images:
+  - 'europe-west1-docker.pkg.dev/$PROJECT_ID/urban-mobility/urban-mobility-analytics:$COMMIT_SHA'
