@@ -1,3 +1,23 @@
+<img width="991" height="550" alt="Screenshot 2026-08-25 at 6 21 56 AM" src="https://github.com/user-attachments/assets/c28ff18e-9ca5-46ab-b515-7eda476955c1" />
+<img width="1122" height="710" alt="Screenshot 2026-08-25 at 6 14 35 AM" src="https://github.com/user-attachments/assets/b983c18c-fcda-4dd1-9cd7-1b1cc86ef44e" />
+<img width="1060" height="580" alt="Screenshot 2026-08-25 at 6 15 35 AM" src="https://github.com/user-attachments/assets/f8d84763-e48c-4638-9e96-deaed24c8d43" />
+<img width="1039" height="521" alt="Screenshot 2026-08-25 at 6 20 01 AM" src="https://github.com/user-attachments/assets/4db44108-f4b9-4819-b3c2-7086be3e94b5" />
+<img width="1009" height="781" alt="Screenshot 2026-08-25 at 6 20 43 AM" src="https://github.com/user-attachments/assets/001cbabc-d213-440e-a225-88cdcf877d26" />
+<img width="1081" height="739" alt="Screenshot 2026-08-25 at 6 21 22 AM" src="https://github.com/user-attachments/assets/a5421a00-8866-4cf5-979c-e64a0bdd8f77" />
+<img width="1046" height="502" alt="Screenshot 2026-08-25 at 6 20 28 AM" src="https://github.com/user-attachments/assets/f09b18f4-ea9e-4251-bcfe-af32b39c992d" />
+<img width="1012" height="463" alt="Screenshot 2026-08-25 at 6 21 13 AM" src="https://github.com/user-attachments/assets/aa27ba6b-3494-43fa-b0cb-6f0a9eefa0af" />
+<img width="1009" height="587" alt="Screenshot 2026-08-25 at 6 19 29 AM" src="https://github.com/user-attachments/assets/7560700b-8cc3-495f-8b0b-abf006991cd0" />
+<img width="1033" height="690" alt="Screenshot 2026-08-25 at 6 15 05 AM" src="https://github.com/user-attachments/assets/76573385-524e-4402-980e-64a4b204105a" />
+<img width="1437" height="814" alt="Screenshot 2026-08-25 at 6 14 22 AM" src="https://github.com/user-attachments/assets/1af521c3-d6b6-4592-bb17-c21e04daf19c" />
+<img width="1437" height="814" alt="Screenshot 2026-08-25 at 6 14 22 AM" src="https://github.com/user-attachments/assets/38935288-e2fb-4443-b1f5-fd97cae21b87" />
+<img width="1014" height="586" alt="Screenshot 2026-08-25 at 6 15 27 AM" src="https://github.com/user-attachments/assets/04f00530-5195-416f-8c2a-cd62ad59fa32" />
+<img width="1042" height="770" alt="Screenshot 2026-08-25 at 6 15 16 AM" src="https://github.com/user-attachments/assets/dade0542-2ba8-4773-a5c6-77248487b76b" />
+<img width="1026" height="534" alt="Screenshot 2026-08-25 at 6 19 48 AM" src="https://github.com/user-attachments/assets/59a0fae7-0a27-4829-9702-312f9a3db666" />
+<img width="1056" height="536" alt="Screenshot 2026-08-25 at 6 19 54 AM" src="https://github.com/user-attachments/assets/ab570d0b-a341-401b-82a1-74fe5f1ccb63" />
+
+
+
+
 # 🚕 Urban Mobility Intelligence
 
 > **A production-style business intelligence and analytics platform for understanding NYC taxi demand, weather sensitivity, spatial demand, revenue behavior, and operational patterns.**
@@ -172,6 +192,20 @@ The platform follows a layered architecture designed to separate data access, an
       │   Dashboard   │      │   Geography   │      │   Questions   │
       └───────────────┘      └───────────────┘      └───────────────┘
 ```
+
+<img width="1069" height="699" alt="Screenshot 2026-08-25 at 6 14 57 AM" src="https://github.com/user-attachments/assets/0bea5d25-e17f-44a0-bd04-57f6cc25c0de" />
+<img width="927" height="445" alt="Screenshot 2026-08-25 at 6 19 19 AM" src="https://github.com/user-attachments/assets/f55d7a66-9c99-439f-bc42-b28148b532e4" />
+<img width="1066" height="521" alt="Screenshot 2026-08-25 at 6 20 21 AM" src="https://github.com/user-attachments/assets/21611523-0122-4aaa-bc2b-6cfc6b896ea0" />
+<img width="1032" height="606" alt="Screenshot 2026-08-25 at 6 14 50 AM" src="https://github.com/user-attachments/assets/b95585e3-2652-4fed-b47a-e514474d2f10" />
+<img width="1039" height="484" alt="Screenshot 2026-08-25 at 6 16 03 AM" src="https://github.com/user-attachments/assets/bd9f9c8e-0e96-414e-9866-0d186b1fcb71" />
+<img width="1007" height="571" alt="Screenshot 2026-08-25 at 6 20 15 AM" src="https://github.com/user-attachments/assets/aaa41deb-482d-40fe-9552-c70172c9bdf0" />
+<img width="1008" height="537" alt="Screenshot 2026-08-25 at 6 21 00 AM" src="https://github.com/user-attachments/assets/28bae786-6f2a-4d2c-a063-21e43df16f3b" />
+<img width="1055" height="605" alt="Screenshot 2026-08-25 at 6 21 08 AM" src="https://github.com/user-attachments/assets/30467c1c-3c01-47c2-9ce9-d466f9a765e3" />
+<img width="1061" height="688" alt="Screenshot 2026-08-25 at 6 14 42 AM" src="https://github.com/user-attachments/assets/c2a522f3-91e1-425e-9f58-cd5edfaaf56c" />
+<img width="1063" height="767" alt="Screenshot 2026-08-25 at 6 15 53 AM" src="https://github.com/user-attachments/assets/3c880e56-19a6-49b4-9056-606ea2911161" />
+<img width="1021" height="568" alt="Screenshot 2026-08-25 at 6 20 08 AM" src="https://github.com/user-attachments/assets/1b67f191-fd0e-4d70-9de1-660c9381cbc4" />
+<img width="1" height="2" alt="Screenshot 2026-08-25 at 6 20 54 AM" src="https://github.com/user-attachments/assets/612e7d91-61e7-45a7-9459-4ff43645a673" />
+<img width="1016" height="398" alt="Screenshot 2026-08-25 at 6 21 33 AM" src="https://github.com/user-attachments/assets/3f8004f7-c364-4f26-ac68-b3eec086effe" />
 
 ---
 
